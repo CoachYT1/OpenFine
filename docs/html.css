@@ -1,3 +1,36 @@
-h2{
-    color: red;
+body{
+    background-color: rgb(85, 0, 226);
+}
+.text_default{
+    color: #F2F2F2;
+}
+#titolo{
+    font-family: 'Dancing Script', cursive;
+    position: relative;
+    width: 600px;
+    text-align: center;
+    border: 3px double #A80CFA;
+    margin: auto;
+}
+#download h2{
+    padding: auto;
+    margin: 50px;
+    margin-bottom: 20px;
+    color: #F2F2F2;
+}
+#download a:any-link{
+    font-family: 'Quicksand', sans-serif;
+    color: #6AE30B;
+    font-size: 20px;
+}
+#download ul{
+    margin-left: 30px;
+}
+#donations{
+    margin-left: 50px;
+    margin-top: 30px;
+}
+#donations p{
+    font-size: large;
+    font-family: 'Libre Baskerville', serif;
 }
