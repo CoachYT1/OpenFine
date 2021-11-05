@@ -1,5 +1,5 @@
 # OpenFine
-[Official Site](http://sourcefine.ml/)
+[Official Site](https://sourcefine.ml/)
 <br/>
 Let's make Optifine open source<br/><br/>
 If you wanna donate to help this project  
